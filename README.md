@@ -46,5 +46,5 @@ To become a certified and skilled Cloud & Security Engineer, contributing to inn
 
 Email: [chidimoloko@gmail.com](mailto:chidimoloko@gmail.com)  
 Linkedin: https://www.linkedin.com/in/moloko-chidi-a72422234/
-Location: Alberton, South Africa  
+
 
