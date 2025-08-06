@@ -1,6 +1,6 @@
 ## About Me
 
-Hi there! I'm Moloko Catherine Chidi, a determined and self-driven IT graduate with a deep interest in cloud computing, cybersecurity, and technical problem-solving. My journey into tech began with a strong foundation in Information Technology and Computer Science at Ekurhuleni West TVET College, and I've been building on it ever since.
+Hi there!I am Moloko Catherine Chidi, a determined and self-driven IT graduate with a deep interest in cloud computing, cybersecurity, and technical problem-solving. My journey into tech began with a strong foundation in Information Technology and Computer Science at Ekurhuleni West TVET College, and I've been building on it ever since.
 
 With hands-on experience in technical support, networking, and cloud services, I bring both practical skills and a learner’s mindset to everything I do. Whether I’m helping users configure routers or diving into cloud infrastructure challenges, I thrive on solving problems and improving systems.
 
@@ -38,8 +38,7 @@ To become a certified and skilled Cloud & Security Engineer, contributing to inn
 - I speak Sepedi (native), English, Venda, Tswana and Zulu
 - I enjoy learning through hands-on labs, online courses, and community tech events
 - Currently exploring cloud security, automation, and AWS certifications
-- Passionate about closing the gender gap in tech and empowering young African women to enter STEM fields
-
+  
 ---
 
 ###  Let’s Connect
