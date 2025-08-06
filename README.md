@@ -10,7 +10,7 @@ I’m currently leveling up my skills through the AWS re/Start Program and have 
 
 ### My Mission
 
-To become a certified and skilled Cloud & Security Engineer, contributing to innovative, secure, and efficient digital environments - while continuing to learn, share, and grow with the global tech community.
+To become a certified and skilled Cloud & Security Engineer, contributing to innovative, secure, and efficient digital environments while continuing to learn, share, and grow with the global tech community.
 
 ---
 
