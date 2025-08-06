@@ -46,4 +46,7 @@ To become a certified and skilled Cloud & Security Engineer, contributing to inn
 Email: [chidimoloko@gmail.com](mailto:chidimoloko@gmail.com)  
 Linkedin: https://www.linkedin.com/in/moloko-chidi-a72422234/
 
+<img width="264" height="264" alt="aws-cloud-quest-cloud-practitioner" src="https://github.com/user-attachments/assets/96fdd45f-2e6d-41aa-8220-6a909d411666" />
+
+
 
