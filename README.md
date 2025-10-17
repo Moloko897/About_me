@@ -55,3 +55,8 @@ Linkedin: https://www.linkedin.com/in/moloko-chidi-a72422234/
 <img width="264" height="264" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/1a1ab7da-1c6e-49c9-8ba9-b99a8b98ee72" />
 
 
+
+
+<img width="264" height="264" alt="aws-re-start-graduate (1)" src="https://github.com/user-attachments/assets/c3a0b535-b1ea-46a6-9fd2-0d0ac4ad8b7e" />
+
+
