@@ -49,4 +49,5 @@ Linkedin: https://www.linkedin.com/in/moloko-chidi-a72422234/
 <img width="264" height="264" alt="aws-cloud-quest-cloud-practitioner" src="https://github.com/user-attachments/assets/96fdd45f-2e6d-41aa-8220-6a909d411666" />
 
 
+<img width="600" height="600" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/bd8a6985-6b88-44a1-861f-8a986c882fe4" />
 
